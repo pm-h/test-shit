@@ -22,7 +22,7 @@ int main() {
     cin >> selectItem;
         switch(selectItem){
             case 0:
-                cout << "-----HELP LIST-----\n01.............Loop\n";
+                cout << "----HELP LIST 1----\n01.............Loop\n02.............Test\n03...........Unused\n04...........Unused\n05...........Unused\n";
                 break;
             case 1:
                 limitLoop();
